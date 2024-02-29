@@ -27,11 +27,16 @@ margin: 20PX;
 .SPAN1{
 
     background-color: aqua;
+}
     .SPAN2{
         background-color: blue;
     }
-}
 
 .SPAN2{
     background-color: blue;
+}
+.one{
+    padding: 2px;
+    margin: 3px;
+    border: 4px solid black;
 }
